@@ -1,3 +1,3 @@
 # sujinda-auracle
 
-สวัสดีค่ะ
+hello world 
